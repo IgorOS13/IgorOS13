@@ -10,5 +10,5 @@
 ##
 
 <div>
-  <a href="https://linkedin.com/in/igor-oliveira-da-silva-449896268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/igor-oliveira-da-silva-449896268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
