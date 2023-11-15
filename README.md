@@ -1,4 +1,4 @@
-## Olá! Eu sou o Igor👋
+## Hello, World! Eu sou o Igor👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
